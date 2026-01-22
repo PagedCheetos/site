@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="/_includes/xsl/feeds.xsl" type="text/xsl" media="screen"?>
+<rss version="2.0">
+	<channel>
+		<title><![CDATA[Discovery Academy Page Updates Feed - Learning]]></title>
+		<link>https://www.thediscoveryacademy.org%2Flearning</link>
+		<description><![CDATA[The latest updated pages under Learning on the Discovery Academywebsite.]]></description>
+		<generator>Juniper Education Content Management System (CMS) Version: 4.5 (junipereducation.org)</generator>
+		<pubDate>Fri, 9 Jan 2026 13:10:57 GMT</pubDate>
+		<lastBuildDate>Fri, 9 Jan 2026 13:10:57 GMT</lastBuildDate>
+		<item>	<title><![CDATA[ Current Learning ]]></title>	<link>https://www.thediscoveryacademy.org/learning/current-learning</link>	<description><![CDATA[<p>This page was modified on Fri, 9 Jan 2026 13:10:57 GMT.</p>]]></description>	<pubDate>Fri, 9 Jan 2026 13:10:57 GMT</pubDate>	<guid isPermaLink="true">https://www.thediscoveryacademy.org/learning/current-learning</guid></item><item>	<title><![CDATA[ Subject Roadmaps ]]></title>	<link>https://www.thediscoveryacademy.org/learning/subject-roadmaps</link>	<description><![CDATA[<p>This page was created on Fri, 7 Nov 2025 11:41:36 GMT.</p>]]></description>	<pubDate>Fri, 7 Nov 2025 11:41:36 GMT</pubDate>	<guid isPermaLink="true">https://www.thediscoveryacademy.org/learning/subject-roadmaps</guid></item><item>	<title><![CDATA[ Careers Education ]]></title>	<link>https://www.thediscoveryacademy.org/careers</link>	<description><![CDATA[<p>This page was modified on Wed, 24 Sep 2025 08:28:50 GMT.</p>]]></description>	<pubDate>Wed, 24 Sep 2025 08:28:50 GMT</pubDate>	<guid isPermaLink="true">https://www.thediscoveryacademy.org/careers</guid></item><item>	<title><![CDATA[ Exam Information ]]></title>	<link>https://www.thediscoveryacademy.org/learning/exam-information</link>	<description><![CDATA[<p>This page was modified on Mon, 28 Apr 2025 11:21:37 GMT.</p>]]></description>	<pubDate>Mon, 28 Apr 2025 11:21:37 GMT</pubDate>	<guid isPermaLink="true">https://www.thediscoveryacademy.org/learning/exam-information</guid></item><item>	<title><![CDATA[ Compassionate Curriculum ]]></title>	<link>https://www.thediscoveryacademy.org/compassionatecurriculum</link>	<description><![CDATA[<p>This page was modified on Tue, 15 Apr 2025 16:29:26 GMT.</p>]]></description>	<pubDate>Tue, 15 Apr 2025 16:29:26 GMT</pubDate>	<guid isPermaLink="true">https://www.thediscoveryacademy.org/compassionatecurriculum</guid></item><item>	<title><![CDATA[ Curriculum Overview ]]></title>	<link>https://www.thediscoveryacademy.org/curriculum</link>	<description><![CDATA[<p>This page was modified on Tue, 31 Oct 2017 15:20:26 GMT.</p>]]></description>	<pubDate>Tue, 31 Oct 2017 15:20:26 GMT</pubDate>	<guid isPermaLink="true">https://www.thediscoveryacademy.org/curriculum</guid></item>
+	</channel>
+</rss>
+

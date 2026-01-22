@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="/_includes/xsl/feeds.xsl" type="text/xsl" media="screen"?>
+<rss version="2.0">
+	<channel>
+		<title><![CDATA[Discovery Academy Album Feed - Girls Group - 19th June 2018 - #islastones]]></title>
+		<link>https://www.thediscoveryacademy.org%2Fgallery%2F%3Fpid%3D3%26amp%3Bgcatid%3D1%26amp%3Balbumid%3D23</link>
+		<description><![CDATA[In today&rsquo;s session we had a discussion about &lsquo;Isla Stones&rsquo;, learnt about what they are and why people are painting them.
+
+We then spent time painting our own our stones. On some of the stones we wrote #islastones and #discoveryacademy so people can let Isla and us know if they find them.
+
+When we finished painting our stones, we left them to dry.
+
+Next week, we will go for a walk with Ruby (our school dog) to hide them.
+]]></description>
+		<generator>Juniper Education Content Management System (CMS) Version: 4.5 (junipereducation.org)</generator>
+		<pubDate>Thu, 21 Jun 2018 14:23:46 GMT</pubDate>
+		<lastBuildDate>Thu, 21 Jun 2018 14:23:46 GMT</lastBuildDate>
+		<item>	<title><![CDATA[ Girls Group Isla Stones 2 ]]></title>	<link>https://www.thediscoveryacademy.org/gallery/?pid=3&amp;gcatid=1&amp;albumid=23&amp;imageid=304</link>	<description><![CDATA[<img src="https://www.thediscoveryacademy.org/_site/data/images/galleries/23/thumb-Girls Group Isla Stones 2.jpg">]]></description>	<pubDate>Thu, 21 Jun 2018 14:23:46 GMT</pubDate>	<guid isPermaLink="true">https://www.thediscoveryacademy.org/gallery/?pid=3&amp;gcatid=1&amp;albumid=23&amp;imageid=304</guid></item><item>	<title><![CDATA[ Girls Group Isla Stones 4 ]]></title>	<link>https://www.thediscoveryacademy.org/gallery/?pid=3&amp;gcatid=1&amp;albumid=23&amp;imageid=306</link>	<description><![CDATA[<img src="https://www.thediscoveryacademy.org/_site/data/images/galleries/23/thumb-Girls Group Isla Stones 4.jpg">]]></description>	<pubDate>Thu, 21 Jun 2018 14:23:46 GMT</pubDate>	<guid isPermaLink="true">https://www.thediscoveryacademy.org/gallery/?pid=3&amp;gcatid=1&amp;albumid=23&amp;imageid=306</guid></item><item>	<title><![CDATA[ Girls Group Isla Stones 3 ]]></title>	<link>https://www.thediscoveryacademy.org/gallery/?pid=3&amp;gcatid=1&amp;albumid=23&amp;imageid=305</link>	<description><![CDATA[<img src="https://www.thediscoveryacademy.org/_site/data/images/galleries/23/thumb-Girls Group Isla Stones 3.jpg">]]></description>	<pubDate>Thu, 21 Jun 2018 14:23:46 GMT</pubDate>	<guid isPermaLink="true">https://www.thediscoveryacademy.org/gallery/?pid=3&amp;gcatid=1&amp;albumid=23&amp;imageid=305</guid></item><item>	<title><![CDATA[ Girls Group Isla Stones 1 ]]></title>	<link>https://www.thediscoveryacademy.org/gallery/?pid=3&amp;gcatid=1&amp;albumid=23&amp;imageid=303</link>	<description><![CDATA[<img src="https://www.thediscoveryacademy.org/_site/data/images/galleries/23/thumb-Girls Group Isla Stones 1.jpg">]]></description>	<pubDate>Thu, 21 Jun 2018 14:23:46 GMT</pubDate>	<guid isPermaLink="true">https://www.thediscoveryacademy.org/gallery/?pid=3&amp;gcatid=1&amp;albumid=23&amp;imageid=303</guid></item><item>	<title><![CDATA[ Girls Group Isla Stones ]]></title>	<link>https://www.thediscoveryacademy.org/gallery/?pid=3&amp;gcatid=1&amp;albumid=23&amp;imageid=307</link>	<description><![CDATA[<img src="https://www.thediscoveryacademy.org/_site/data/images/galleries/23/thumb-Girls Group Isla Stones.jpg">]]></description>	<pubDate>Thu, 21 Jun 2018 14:23:46 GMT</pubDate>	<guid isPermaLink="true">https://www.thediscoveryacademy.org/gallery/?pid=3&amp;gcatid=1&amp;albumid=23&amp;imageid=307</guid></item><item>	<title><![CDATA[ Girls Group Isla Stones 0(1) ]]></title>	<link>https://www.thediscoveryacademy.org/gallery/?pid=3&amp;gcatid=1&amp;albumid=23&amp;imageid=309</link>	<description><![CDATA[<img src="https://www.thediscoveryacademy.org/_site/data/images/galleries/23/thumb-Girls Group Isla Stones 0(1).jpg">]]></description>	<pubDate>Thu, 21 Jun 2018 14:23:46 GMT</pubDate>	<guid isPermaLink="true">https://www.thediscoveryacademy.org/gallery/?pid=3&amp;gcatid=1&amp;albumid=23&amp;imageid=309</guid></item>
+	</channel>
+</rss>
